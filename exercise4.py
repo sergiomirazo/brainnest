@@ -11,4 +11,4 @@ if int(hours)>40:
     pay = float(hours)*rate*1.5
 else:
     pay = float(hours)*rate
-print(f"You worked {hours}, then your paid is: {pay}")
+print(f"You worked {hours} hours, then your paid is: {pay}" USD)
